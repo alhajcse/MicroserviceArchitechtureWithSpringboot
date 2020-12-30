@@ -1,0 +1,55 @@
+server:
+  port: 9191
+
+
+spring:
+  application:
+    name: SERVICE-APIGATWAY
+  cloud:
+    gateway:
+      routes:
+        - id: SERVICE-TEACHER
+          uri: lb://SERVICE-TEACHER
+          predicates:
+            - Path=/teacher/**
+          filters:
+            - name: CircuitBreaker
+              args:
+                name: SERVICE-TEACHER
+                fallbackuri: forward:/teacherServiceFallBack
+
+        - id: SERVICE-STUDENT
+          uri: lb://SERVICE-STUDENT
+          predicates:
+            - Path=/students/**
+          filters:
+            - name: CircuitBreaker
+              args:
+                name: SERVICE-STUDENT
+                fallbackuri: forward:/studentServiceFallBack
+
+hystrix:
+  command:
+    fallbackcmd:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 4000
+
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: hystrix.stream
+
+
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone : http://localhost:8761/eureka/
+  instance:
+    hostname: localhost
