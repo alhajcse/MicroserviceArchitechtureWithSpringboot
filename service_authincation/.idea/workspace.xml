@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="21ba8718-6659-4d9b-80a4-c4cdf5dab867" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../service-hystrixdashboard/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__io_reactivex_rxjava_1_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__junit_junit_4_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_checkerframework_checker_qual_2_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_junit_vintage_junit_vintage_engine_5_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_cache_2_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_loadbalancer_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_spring_aspects_5_2_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_spring_beans_5_2_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_spring_context_5_2_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_spring_core_5_2_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_spring_test_5_2_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service_teacher/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hystrix-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hystrix-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_registry/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_registry/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_student/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_student/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__com_google_guava_guava_29_0_jre.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_10_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_10_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_10_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_10_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_14.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__commons_codec_commons_codec_1_15.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__commons_codec_commons_codec_1_14.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__io_projectreactor_addons_reactor_extra_3_4_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__io_projectreactor_addons_reactor_extra_3_3_4_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__io_projectreactor_reactor_core_3_4_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__io_projectreactor_reactor_core_3_3_12_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_assertj_assertj_core_3_18_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_assertj_assertj_core_3_16_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_4_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_6_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_6_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_mockito_mockito_core_3_6_28.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_mockito_mockito_core_3_3_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_6_28.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_3_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_objenesis_objenesis_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_4_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_3_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_4_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_3_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_4_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_3_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_cache_2_4_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_3_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_4_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_3_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_4_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_3_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_4_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_3_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_3_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_2_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_3_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_2_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_loadbalancer_3_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_loadbalancer_2_2_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_3_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_2_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_3_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_2_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_loadbalancer_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_4_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_3_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_4_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_3_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_4_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_3_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_spring_aop_5_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_spring_orm_5_2_12_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_spring_aspects_5_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_spring_web_5_2_12_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_spring_beans_5_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_spring_aop_5_2_12_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_spring_context_5_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_12_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_spring_context_support_5_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_spring_context_support_5_2_12_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_spring_core_5_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_spring_expression_5_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_spring_expression_5_2_12_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_spring_orm_5_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_spring_test_5_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_spring_tx_5_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_spring_web_5_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_springframework_spring_tx_5_2_12_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_yaml_snakeyaml_1_27.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_teacher/.idea/libraries/Maven__org_yaml_snakeyaml_1_26.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_teacher/service_teacher/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_teacher/service_teacher/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/.m2/wrapper/dists/apache-maven-3.6.3-bin/1iopthnavndlasol9gbrbg6bf2/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mPcW2xwglTkEyoH344FYzhNpgz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ServiceAuthincationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_authincation" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.auth.service_authincation.ServiceAuthincationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21ba8718-6659-4d9b-80a4-c4cdf5dab867" name="Default Changelist" comment="" />
+      <created>1609398695280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609398695280</updated>
+      <workItem from="1609398697526" duration="473000" />
+      <workItem from="1609405493054" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1609405479625">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1609405479625" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1609405479625">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1609405479625" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1609405479625">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1609405479625" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1609405479625">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1609405479625" />
+    <state width="1807" height="278" key="GridCell.Tab.1.bottom" timestamp="1609405479626">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1609405479626" />
+    <state width="1807" height="278" key="GridCell.Tab.1.center" timestamp="1609405479626">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1609405479626" />
+    <state width="1807" height="278" key="GridCell.Tab.1.left" timestamp="1609405479626">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1609405479626" />
+    <state width="1807" height="278" key="GridCell.Tab.1.right" timestamp="1609405479626">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1609405479626" />
+  </component>
+</project>
