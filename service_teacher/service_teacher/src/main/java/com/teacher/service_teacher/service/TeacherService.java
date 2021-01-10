@@ -33,8 +33,6 @@ public class TeacherService {
         StudentInformation studentInformation=restTemplate.getForObject("http://SERVICE-STUDENT/students/"+className,StudentInformation.class);
         responseTemplateVO.setStudentInformation(studentInformation);
 //        responseTemplateVO.setTeacherInformation(teacherInformation);
-
-
         return responseTemplateVO;
     }
 

@@ -31,6 +31,10 @@ public class TeacherInformationController {
         return teacherService.getTeacherWithStudent(className);
     }
 
+    @GetMapping("/teacher_name")
+    public String getTeacherName(){
+        return "Name is teacher Sabbir";
+    }
 
 
 }

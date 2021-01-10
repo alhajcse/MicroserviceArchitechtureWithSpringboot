@@ -1,5 +1,6 @@
 package com.student.service_student.controller;
 
+import com.student.service_student.client.RestClient;
 import com.student.service_student.model.StudentInformation;
 import com.student.service_student.service.StudentService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -11,6 +12,9 @@ public class StudentInformationController {
 
     @Autowired
     private StudentService studentService;
+
+    @Autowired
+    private RestClient restClient;
 
 
     @GetMapping("/{id}")
@@ -24,6 +28,12 @@ public class StudentInformationController {
 
         return studentService.saveGeneralInformation(studentInformation);
     }
+
+    @GetMapping("/teacher_name")
+    public String getTeacherName(){
+        return restClient.getTeacherName();
+    }
+
 
 
 
