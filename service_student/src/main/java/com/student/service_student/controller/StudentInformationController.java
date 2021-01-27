@@ -16,10 +16,16 @@ public class StudentInformationController {
     @Autowired
     private RestClient restClient;
 
+    @GetMapping("/user")
+    public String hello() {
+        System.out.println("Hello User");
+        return "Hello Dude !! Its User Service ";
+    }
 
     @GetMapping("/{id}")
     public StudentInformation getStudentGeneralInformationById(@PathVariable("id") Integer id){
 
+        System.out.println("yes mamamamam");
         return studentService.getStudentGeneralInformationById(id);
     }
 

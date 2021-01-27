@@ -23,7 +23,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21ba8718-6659-4d9b-80a4-c4cdf5dab867" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka/src/main/java/com/producer/kafka/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka/src/main/java/com/producer/kafka/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka/src/main/java/com/producer/kafka/service/ConsumerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka/src/main/java/com/producer/kafka/service/ProducerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kafka/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka/src/main/java/com/demo/kafka/KafkaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kafka/src/main/java/com/producer/kafka/KafkaApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka/src/main/java/com/demo/kafka/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../kafka/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka/src/test/java/com/demo/kafka/KafkaApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kafka/src/test/java/com/producer/kafka/KafkaApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +65,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kafka" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -79,6 +87,7 @@
       <updated>1609398695280</updated>
       <workItem from="1609398697526" duration="473000" />
       <workItem from="1609405493054" duration="1242000" />
+      <workItem from="1611126028776" duration="70000" />
     </task>
     <servers />
   </component>
@@ -98,6 +107,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1611126096048">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1611126096048" />
     <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1609405479625">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>

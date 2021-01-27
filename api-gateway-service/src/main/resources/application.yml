@@ -1,0 +1,80 @@
+server:
+  port: 8181
+
+spring:
+  application:
+    name: zuul-api-gateway
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/auth_db?createIfNotExists=true
+    username: root
+    password: 12345678
+  jpa:
+    database-platform: org.hibernate.dialect.MySQL8Dialect
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+
+hystrix:
+  command:
+    fallbackcmd:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 4000
+
+
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+    healthcheck:
+      enabled: true
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+
+zuul:
+  ignored-services:
+    - '*'
+
+    - Cookie,Set-Cookie
+  routes:
+    #      fdfdf:
+    #         service-id: custom-service
+    #         path: /**
+    SERVICE-TEACHER:
+      service-id: SERVICE-TEACHER
+      path: /teacher/**
+
+
+
+    SERVICE-STUDENT:
+      service-id: SERVICE-STUDENT
+      path: /student/**
+
+    SERVICE-KAFKA:
+      service-id: SERVICE-KAFKA
+      path: /kafka/**
+
+
+
+ribbon:
+  eureka:
+    enabled: false
+
+SERVICE-STUDENT:
+  ribbon:
+    listOfServers: localhost:8090
+
+SERVICE-TEACHER:
+  ribbon:
+    listOfServers: localhost:8091
+
+SERVICE-KAFKA:
+  ribbon:
+    listOfServers: localhost:9090
